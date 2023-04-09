@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mortgage-calculator/static/js/main.5aa1ac51.js",
+    "index.html": "/mortgage-calculator/index.html",
+    "main.5aa1ac51.js.map": "/mortgage-calculator/static/js/main.5aa1ac51.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5aa1ac51.js"
+  ]
+}
